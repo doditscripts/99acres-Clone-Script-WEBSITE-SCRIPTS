@@ -1,9 +1,16 @@
 # 99acres-Clone-Script-WEBSITE-SCRIPTS
-Best 99acres Clone Php Script and Custom Solutions to create your own Php Based Real Estate Database Website with unique features and complete functionality
-99Acres Clone Script comes with Mobile Application – Both Android and IOS.
-UNIQUE FEATURES
-General features
-User Panel features
-SEO features
-Back end features
-Admin Features
+Best 99acres Clone Script associate degreed Custom Solutions to form your own Php primarily based assets info web site with distinctive options and complete practicality 99acres Clone Script being an one assets portal, its clone could be a excellent alternative for several those that commit to begin a true estate agency or a property web site. It’s the biggest web site in Asian nation for assets transactions, with a info of a hundred million homes. Our ninety nine acres clone script remains unbeatable in digital assets world with a large market share.
+System
+Smart Map
+Agent/Agency monitoring
+Analytics and Reports
+Notification
+Plan Manager
+Retention
+Featured Properties
+Adverts
+Subscription
+SEO and Social Media
+Offer A Price
+Apply Offers
+Help & Support
